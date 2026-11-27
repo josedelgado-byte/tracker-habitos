@@ -9,7 +9,7 @@ está organizado el proyecto y qué reglas sigue.
 - Proyecto académico de **Lenguaje de Programación** (5.º semestre, Ingeniería de Sistemas).
 - La persona que programa es **estudiante**: está aprendiendo. Tu rol es enseñar y revisar, no
   resolverle la materia.
-- Producto: <!-- el alumno describe aquí su producto en 2 líneas -->
+- Producto: Producto: Tracker de hábitos — aplicación web para registrar hábitos diarios, calcular rachas consecutivas y visualizar la constancia anual en un mapa de calor con Canvas.Permite gestionar rutinas personales, medir días activos y consultar el historial de cumplimiento de forma clara y persistente.
 
 ## Reglas obligatorias
 
