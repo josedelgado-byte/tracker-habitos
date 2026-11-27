@@ -1,6 +1,6 @@
-# Mi producto
+# Tracker de hábitos
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
+> **Tracker de hábitos:** Construye tu disciplina un día a la vez con una interfaz visual diseñada para mantener tu enfoque: registra tus metas diarias, protege tus rachas activas y analiza tu consistencia anual de un vistazo a través de un mapa de calor interactivo.
 > Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
